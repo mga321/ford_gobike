@@ -24,6 +24,8 @@ The entire analysis will contain 3 parts:
 
 The data has been collected from the company's official website here: https://s3.amazonaws.com/baywheels-data/index.html. Due to the start date of this project, the analysis only contains data up until May 2019. All data from June 2019 and on, has **NOT** been included.
 
+The dataset for the analysis is not included in the repository. To recreate my analysis, use the link in the above paragraph and download all datasets from 2017-fordgobike-tripdata.csv to 201905-baywheels-tripdata.csv.zip. Feel free to further explore by also downloading additional months' datasets.
+
 # Part 1: User Type and Demographic Analysis
 
 Part 1 of the exploratory analysis contains 4 sections:
