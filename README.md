@@ -17,4 +17,13 @@ The entire analysis will contain 3 parts:
 
 
 # The Data:
+
 The data has been collected from the company's official website here: https://s3.amazonaws.com/baywheels-data/index.html. Due to the start date of this project, the analysis only contains data up until May 2019. All data from June 2019 and on, has **NOT** been included.
+
+# Part 1: User Type and Demographic Analysis
+
+Part 1 of the exploratory analysis contains 4 sections:
+- **Section 1:** Gathering and cleaning (ford-gobike-cleaning.ipynb)
+- **Section 2:** Univariate exploration (ford-go-bike-exploratory-analysis.ipynb)
+- **Section 3:** Bivariate exploration (ford-go-bike-exploratory-analysis.ipynb)
+- **Section 4:** Multivariate exploration (ford-go-bike-exploratory-analysis.ipynb)
