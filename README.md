@@ -22,7 +22,7 @@ The entire analysis will contain 3 parts:
 
 # The Data:
 
-The data has been collected from the company's official website here: https://s3.amazonaws.com/baywheels-data/index.html. Due to the start date of this project, the analysis only contains data up until May 2019. All data from June 2019 and on, has **NOT** been included.
+The data has been collected from the company's official website here: https://s3.amazonaws.com/baywheels-data/index.html. Due to the start date of this project, the analysis only contains data up until May 2019. All data from June 2019 and on has **NOT** been included.
 
 The dataset for the analysis is not included in the repository. To recreate my analysis, use the link in the above paragraph and download all datasets from 2017-fordgobike-tripdata.csv to 201905-baywheels-tripdata.csv.zip. Feel free to further explore by also downloading additional months' datasets.
 
@@ -33,7 +33,7 @@ Part 1 of the exploratory analysis contains 4 sections:
 - **Section 2:** Univariate exploration (ford-go-bike-exploratory-analysis.ipynb)
 - **Section 3:** Bivariate exploration (ford-go-bike-exploratory-analysis.ipynb)
 - **Section 4:** Multivariate exploration (ford-gobike-exploratory-multivariate-tableau-analysis.twbx)
-    - To view download Tableau Reader here https://www.tableau.com/products/reader Tableau Reader is a free version of Tableau that allows users to view Tableau files locally. Download the twbx file in the repository and view in Tableau Reader.
+    - To view download Tableau Reader here https://www.tableau.com/products/reader Tableau Reader is a free version of Tableau that allows users to view Tableau files locally. Download the .twbx file in the repository and view in Tableau Reader.
     - Familiarity with Tableau or other visualization software may be required to follow along within the packaged workbook.
 
 # Part 2: Time and Location Analysis
