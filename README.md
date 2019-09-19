@@ -34,3 +34,4 @@ Part 1 of the exploratory analysis contains 4 sections:
 - **Section 3:** Bivariate exploration (ford-go-bike-exploratory-analysis.ipynb)
 - **Section 4:** Multivariate exploration (ford-gobike-exploratory-multivariate-tableau-analysis.twbx)
     - To view download Tableau Reader here https://www.tableau.com/products/reader Tableau Reader is a free version of Tableau that allows users to view Tableau files locally. Download the twbx file in the repository and view in Tableau Reader.
+    - Familiarity with Tableau or other visualization software may be required to follow along within the packaged workbook.
