@@ -22,7 +22,7 @@ The entire analysis will contain 3 parts:
 
 # The Data:
 
-The data has been collected from the company's official website here: https://s3.amazonaws.com/baywheels-data/index.html. Due to the start date of this project, the analysis only contains data up until May 2019. All data from June 2019 and on has **NOT** been included.
+The data has been collected from the company's official website here: https://s3.amazonaws.com/baywheels-data/index.html. Due to the start date of this project, the analysis only contains data up until May 2019. All data from June 2019 and on has **NOT** been included. The code from this analysis will require repeat attempts at running the code to place all of the necessary bikeshare datasets in a directory called 'all_bikeshare_datasets' within the current working directory which will contain all of the other project files. This is required for all of the Jupyter Notebooks to run without error.
 
 The dataset for the analysis is not included in the repository. To recreate my analysis, use the link in the above paragraph and download all datasets from 2017-fordgobike-tripdata.csv to 201905-baywheels-tripdata.csv.zip. Feel free to further explore by also downloading additional months' datasets.
 
